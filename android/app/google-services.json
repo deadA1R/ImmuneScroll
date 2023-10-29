@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026014876668",
+    "project_id": "immunoscroll",
+    "storage_bucket": "immunoscroll.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026014876668:android:cbecc9a8f37bf5008c5879",
+        "android_client_info": {
+          "package_name": "com.example.immune_scroll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNF-FBRdQhVxCy81z29Vg1yqVNX-TYXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
